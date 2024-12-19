@@ -1,7 +1,0 @@
-runtime: python39
-entrypoint: streamlit run app.py --server.port $PORT --server.headless true
-
-env_variables:
-  COHERE_API_KEY: "AINcp4iQsGBRLm5CnI0mAoZQpDVpzKuLDxvH8BgY"
-  GOOGLE_API_KEY: "AIzaSyD-NLjaQWACNaNGPCyRYbmYDNw2Xyplq1g"
-  LANGCHAIN_API_KEY: "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"
