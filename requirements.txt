@@ -1,6 +1,9 @@
 streamlit
 langchain
 langchain-google-genai
+langchainhub
+pypdf2
 chromadb
 cohere
 python-dotenv
+ipywidgets
